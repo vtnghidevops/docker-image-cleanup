@@ -58,13 +58,13 @@ sudo nano /etc/docker/whitelist_images.txt
 # Production images - will be protected including newest tags
 nginx
 alpine
-node:16
-node:18
-mysql:8.0
-redis:latest
+node
+mysql
+redis
 postgres
 app-backend
 app-frontend
+private-domain/repo
 # Add your production images here...
 ```
 
