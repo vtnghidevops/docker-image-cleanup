@@ -123,7 +123,7 @@ crontab -l
 ### Run manually
 
 ```bash
-./docker-image-cleanup.sh
+sudo ./docker-image-cleanup.sh
 ```
 
 ### Check logs
