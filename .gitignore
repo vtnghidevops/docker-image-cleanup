@@ -1,0 +1,8 @@
+# Ignore backup script
+backup.sh
+
+# Logs
+*.log
+
+# Environment specific files
+.env

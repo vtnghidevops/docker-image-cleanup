@@ -1,0 +1,26 @@
+# Base & runtime
+nginx
+alpine
+node
+openjdk
+python
+golang
+ubuntu
+debian
+busybox
+
+# Database & middleware
+postgres
+mysql
+mariadb
+redis
+mongo
+rabbitmq
+
+# Monitoring
+grafana
+prom/prometheus
+grafana/k6
+
+# Bitnami
+bitnami/mariadb
